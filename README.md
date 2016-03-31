@@ -1,6 +1,6 @@
 # Greek_Iliad_Odyssey_texts
 
-Greek_Scrapper.py : Run this Scripts to scraps the parallel documents of Greek and English on [The Iliad and Odyssey](http://sacred-texts.com/cla/homer/greek/index.htm)
+Greek_Scraper.py : Run this Scripts to scraps the parallel documents of Greek and English on [The Iliad and Odyssey](http://sacred-texts.com/cla/homer/greek/index.htm)
 Dataset : This folder contains 48 parallel Greek and English documents.
 
 #License
